@@ -24,12 +24,3 @@ This project is built using modern web technologies for performance and scalabil
 
 *(Note: Update these features based on your actual implementation)*
 
-## 🛠️ Installation & Setup
-
-Follow these steps to run the project locally.
-
-### Prerequisites
-Make sure you have the following installed:
-* [Node.js](https://nodejs.org/) (LTS version)
-* [Bun](https://bun.sh/) (`npm install -g bun`)
-
